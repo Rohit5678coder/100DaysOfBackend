@@ -1,0 +1,4 @@
+--classes are the blueprints of classes and the object is the actual instance built from it.each object has its own value for the same fields.
+--Inheritance is the like the child inherit the properties of the parents,kind of many type of inhertiance.
+--Interfaces (like Drivable) define a contract-a list of method a class must implement-without saying how.
+--Debugging today taught me that class names and constructer names match exactly(becoz of case sensitive properties)
