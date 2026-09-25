@@ -15,4 +15,4 @@
 ## Day 4 — Java OOP Basics
 - Learned: classes/objects, inheritance, interfaces
 - Built: Car, ElectricCar, Drivable, Main — debugged several real compile errors (class/constructor name mismatch, missing files, wrong constructor values)
-- Next: Day 5 — Collections (List, Map, Set) + loops/streams intro
+- Next: Day 5 — Collections (List, Map, Set) + loops/streams intro.
